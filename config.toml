@@ -1,0 +1,67 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "ALEXANDRIA AHLUWALIA"                        
+theme = "zozo"
+hasCJKLanguage = false
+summaryLength = 200
+paginate = 3                           
+enableEmoji = true
+googleAnalytics = ""                   
+
+pygmentsUseClasses = true
+pygmentCodeFences = true
+pygmentscodefencesguesssyntax = true
+
+[author]                               
+  name = "Alexandria Ahluwalia"
+
+
+[[menu.main]]                          
+  name = "home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "projects"
+  weight = 20
+  identifier = "projects"
+  url = "/projects/"
+
+[[menu.main]]
+  name = "posts"
+  weight = 30
+  identifier = "posts"
+  url = "/posts/"
+
+[[menu.main]]
+  name = "about"
+  weight = 40
+  identifier = "about"
+  url = "/about/"
+
+[params]
+  subTitle = "student. data scientist. traveller."                                
+
+  keywords = ["data scientist","data scientist","zozo"]    
+
+  description = "data scientist, data analysis, data analyst, data science, machine learning"                        
+  enableMathJax = true                                                 
+  enableSummary = true                                                 
+  mainSections = []
+  
+
+
+[social]
+  github = "https://github.com/lexahl"
+  twitter = "https://twitter.com/lexiahluwalia"
+  messenger = "https://facebook.com/alexandriaahluwalia"
+  instagram = "https://instagram.com/alexandriaahluwalia"
+  linkedin = "https://www.linkedin.com/in/lexi"
+  mail = "mailto:lexi.ahluwalia@gmail.com"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
