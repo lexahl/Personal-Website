@@ -44,7 +44,7 @@ pygmentscodefencesguesssyntax = true
 [params]
   subTitle = "student. data scientist. traveller."                                
 
-  keywords = ["data scientist","data scientist","zozo"]    
+  keywords = ["data scientist","data scientist"]    
 
   description = "data scientist, data analysis, data analyst, data science, machine learning"                        
   enableMathJax = true                                                 
@@ -56,7 +56,7 @@ pygmentscodefencesguesssyntax = true
 [social]
   github = "https://github.com/lexahl"
   twitter = "https://twitter.com/lexiahluwalia"
-  messenger = "https://facebook.com/alexandriaahluwalia"
+  messenger = "https://messenger.com/t/alexandriaahluwalia"
   instagram = "https://instagram.com/alexandriaahluwalia"
   linkedin = "https://www.linkedin.com/in/lexi"
   mail = "mailto:lexi.ahluwalia@gmail.com"
