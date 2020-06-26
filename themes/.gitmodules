@@ -1,7 +1,7 @@
 [submodule "themes/hugo-theme-zozo"]
 	path = themes/hugo-theme-zozo
-	url = https://github.com/varkai/hugo-theme-zozo
+	url = "https://github.com/varkai/hugo-theme-zozo"
 
 [submodule "themes/zozo"]
 	path = themes/zozo
-	url = https://github.com/varkai/hugo-theme-zozo
+	url = "https://github.com/varkai/hugo-theme-zozo"
