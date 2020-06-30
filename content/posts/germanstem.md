@@ -1,6 +1,6 @@
 ---
 title: "Accessibility in Language Course"
-date: 2020-07-01
+date: 2020-06-30
 draft: false
 tags: ["UBC", "german","women", "accessibility"]
 ---
