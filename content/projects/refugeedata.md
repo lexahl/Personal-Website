@@ -2,6 +2,7 @@
 title: "WORKING ON - Refugee Data"
 date: 2019-11-20
 draft: false
+tags: ["data analysis", "data visualization"]
 ---
 
 Source Data: [UNHCR](http://popstats.unhcr.org/en/persons_of_concern)

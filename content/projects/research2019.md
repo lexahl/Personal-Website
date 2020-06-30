@@ -1,7 +1,8 @@
 ---
-title: "Beamforming with mmWaves Research"
+title: "Research: Beamforming with mmWaves"
 date: 2019-10-22
 draft: false
+tags: ["UBC", "research", "mathematics", "5G"]
 ---
 
 In the fall of 2019 I went on an academic exchange to Tecnológico de Monterrey to support the research of the optimization of 5G MIMO hybrid beamforming precoding algorithms. The research was lead by César Vargas-Rosales, <I>Tecnológico de Monterrey, School of Engineering and Sciences</I>, and supported by myself, Alexandria K. Ahluwalia - <I>University of British Columbia</I>, Gerardo Melendez Cocoletzi - <I>Tecnológico de Monterrey, School of Engineering and Sciences</I>, and Diego Fernando Carrera - <I>Tecnológico de Monterrey, School of Engineering and Sciences</I>. We submitted the article, titled "Comparison of Hybrid Beamforming Precoding Algorithms using Millimeter Waves" to the 6th International Electronic Conference on Sensors and Applications on the 22nd of October, 2019.

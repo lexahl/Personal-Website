@@ -2,6 +2,7 @@
 title: "WORKING ON - Violence against Indigenous Women in Canada Visualization"
 date: 2020-04-19
 draft: false
+tags: ["data analysis", "data visualization"]
 ---
 
 Currently working on a project that will be a visualization or set of visualizations that will show the statistics on indigenous women and Canada and the violence against indigenous women in Canada. 
