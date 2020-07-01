@@ -35,4 +35,4 @@ To create a low-impact website, I chose to create a static [Hugo](https://gohugo
 <div id="wcb" class="wcb carbonbadge"></div>
 <script src="https://unpkg.com/website-carbon-badges@^1/b.min.js" defer></script>
 
-*Netlify is not a "green" host, if I used a "green" host my emissions would be 9% less. Most "green" hosts charge more than I want to pay for to host my site, and I know I don't get any hits, so I know my impact is still a lot less than a site with, let's say, 10,000 visits/month. However, highly recommend [Netlify](https://www.netlify.com/). Their customer service is amazing, it works so well with GitHub, and it is free for individual users. 
+*Netlify is not a "green" host, if I used a "green" host my emissions would be 9% less. Most "green" hosts charge more than I want to pay to host my site, also, I know I don't get many hits. So my impact is still a lot less than a site with, let's say, 10,000 visits/month. However, highly recommend [Netlify](https://www.netlify.com/). Their customer service is amazing, it works well with GitHub, and it is free for individual users. 
