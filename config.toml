@@ -7,7 +7,7 @@ hasCJKLanguage = false
 summaryLength = 200
 paginate = 3                           
 enableEmoji = true
-googleAnalytics = ""                   
+googleAnalytics = "UA-153586330-1"                   
 
 pygmentsUseClasses = true
 pygmentCodeFences = true
