@@ -1,7 +1,7 @@
 ---
 title: "German Major at UBC"
 date: 2020-04-18
-draft: false
+draft: true
 tags: ["UBC", "german"]
 ---
 

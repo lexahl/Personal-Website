@@ -13,7 +13,7 @@ I was inspired to switch to a low-impact, static-HTML website after [Organic Bas
 
 - [An average website produces 1.76 grams CO2 per view.](https://www.websitecarbon.com/) 
 
-- In 2016 it took [70 billion kilowatt-hours a year to run the internet.](https://www.forbes.com/sites/christopherhelman/2016/06/28/how-much-electricity-does-it-take-to-run-the-internet/#3ab4384c1fff), to generate that energy, you’d need to run power plants with a baseload capacity of 8,000 megawatts — equivalent to about 8 big nuclear reactors." 
+- In 2016 it took [70 billion kilowatt-hours a year to run the internet.](https://www.forbes.com/sites/christopherhelman/2016/06/28/how-much-electricity-does-it-take-to-run-the-internet/#3ab4384c1fff), "to generate that amount of energy, you’d need to run power plants with a baseload capacity of 8,000 megawatts — equivalent to about 8 big nuclear reactors." 
 
 - [By processing around 3.5 billion searches a day, google accounts for about 40% of the internet’s carbon footprint, an estimated amount of 500 kg of CO2 emissions per second.](https://qz.com/1267709/every-google-search-results-in-co2-emissions-this-real-time-dataviz-shows-how-much/)
 
