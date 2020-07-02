@@ -1,10 +1,12 @@
 ---
-title: "German Major at UBC"
+title: German Major at UBC
 date: 2020-04-18
+tags:
+- UBC
+- german
 draft: true
-tags: ["UBC", "german"]
+
 ---
-
-
 Completed on April 18th, 2020!
 
+test
