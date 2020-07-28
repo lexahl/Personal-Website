@@ -1,5 +1,5 @@
 ---
-title: "WORKING ON - Violence against Indigenous Women in Canada Visualization"
+title: "WORKING ON - Violence against Indigenous Women in Canada Visualizations"
 date: 2020-04-19
 draft: false
 tags: ["data analysis", "data visualization"]
