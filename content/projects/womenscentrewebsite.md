@@ -4,9 +4,7 @@ date: 2020-07-27
 draft: false
 tags: ["UBC", "programming","webdev"]
 ---
-<center>
-[![screenshot of the website](/images/wcwebsite.png)](https://ubcwomenscentre.netlify.app/)
-</center>
+
 
 I created a website for the UBC Women's Centre using [Hugo](https://gohugo.io/) and [Netlify](https://www.netlify.com/) for hosting. The Women’s Centre exists to support anybody of the UBC community and beyond who share intersecting histories of sexual and colonial violence, classism, ableism, racism, homophobia, transphobia and so on. Specifically, to support anybody that has faced gender based oppression and has experienced, will experience, or is experiencing womanhood. The Centre strives to provide a space for community-building, discussion, sharing, and resistance. The UBC Women's Centre offers a safe space on campus, brochures with information about resources, event posters, menstrual products, safer sex products, pregnancy tests, a library of feminist literature, microwave, food, and kettle. We also offer consciousness raising sessions, as well as various community events. 
 
