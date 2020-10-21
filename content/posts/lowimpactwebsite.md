@@ -22,7 +22,7 @@ I was inspired to switch to a low-impact, static-HTML website after [Organic Bas
 - More information can be found [here](https://www.bbc.com/future/article/20200305-why-your-internet-habits-are-not-as-clean-as-you-think#:~:text=If%20we%20were%20to%20rather,of%20carbon%20dioxide%20a%20year), [here](https://theshiftproject.org/en/article/unsustainable-use-online-video/), and [here.](https://theicct.org/publications/co2-emissions-commercial-aviation-2018)
 
 
-At the bottom of this page there is a "Website Carbon Badge", created by [Whole Grain Digital](https://www.wholegraindigital.com/) that automatically calculates and displays the carbon emissions of the page. The badge itself does impact on carbon emissions and because of that it has been designed to be as "lightweight" as possible. However, it is a good reflection on how much carbon is actually produced every time someone visits a web page.
+At the bottom of this page there is a "Website Carbon Badge," created by [Whole Grain Digital](https://www.wholegraindigital.com/) that automatically calculates and displays the carbon emissions of the page. The badge itself does impact on carbon emissions and because of that it has been designed to be as "lightweight" as possible. However, it is a good reflection on how much carbon is actually produced every time someone visits a web page.
 
 - [For a website with 10,000 monthly page views, it is responsible for 211 kg of CO2 emissions per year. This is approximately the same amount of carbon that 1 tree absorbs in a year.](https://www.websitecarbon.com/website/alexandriaahluwalia-netlify-app/)
 
