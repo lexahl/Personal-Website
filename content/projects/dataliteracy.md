@@ -23,7 +23,7 @@ References:
 * https://www.emerald.com/insight/content/doi/10.1108/JD-02-2014-0026/full/html
 * https://commons.emich.edu/cgi/viewcontent.cgi?article=1192&context=loexquarterly
 * http://iase-web.org/documents/intstatreview/02.Gal.pdf
-* https://static.nsta.org/pdfs/samples/PB343Xweb.pdf  "The Basics of Data Literacy: Helping Your Students (and You!) make Sense of Data." The Education Digest, vol. 80, no. 7, 03/01/2015, pp. 61, www.summon.com.
+* "The Basics of Data Literacy: Helping Your Students (and You!) make Sense of Data." The Education Digest, vol. 80, no. 7, 03/01/2015, pp. 61, https://static.nsta.org/pdfs/samples/PB343Xweb.pdf.
 * "Data Literacy for Educators: Making it Count in Teacher Preparation and Practice." Harvard Educational Review, vol. 86, no. 4, 12/22/2016, pp. 607, www.summon.com.
 
 
