@@ -55,9 +55,9 @@ pygmentscodefencesguesssyntax = true
 
 [social]
   github = "https://github.com/lexahl"
-  twitter = "https://twitter.com/lexiahluwalia"
-  messenger = "https://messenger.com/t/alexandriaahluwalia"
-  instagram = "https://instagram.com/alexandriaahluwalia"
+  #twitter = "https://twitter.com/lexiahluwalia"
+ # messenger = "https://messenger.com/t/alexandriaahluwalia"
+  #instagram = "https://instagram.com/alexandriaahluwalia"
   linkedin = "https://www.linkedin.com/in/lexi"
   mail = "mailto:lexi.ahluwalia@gmail.com"
 
