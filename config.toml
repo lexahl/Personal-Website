@@ -42,7 +42,7 @@ pygmentscodefencesguesssyntax = true
   url = "/about/"
 
 [params]
-  subTitle = "student. data scientist. traveller."                                
+  subTitle = "student. (critical) data analysis. languages. travel."                                
 
   keywords = ["data scientist","data scientist"]    
 
@@ -55,11 +55,11 @@ pygmentscodefencesguesssyntax = true
 
 [social]
   github = "https://github.com/lexahl"
-  #twitter = "https://twitter.com/lexiahluwalia"
+  #twitter = "https://twitter.com/alexandrriiia"
  # messenger = "https://messenger.com/t/alexandriaahluwalia"
   #instagram = "https://instagram.com/alexandriaahluwalia"
   linkedin = "https://www.linkedin.com/in/lexi"
-  mail = "mailto:lexi.ahluwalia@gmail.com"
+  mail = "mailto:lexahl@protonmail.com"
 
 [markup]
 [markup.goldmark]
