@@ -5,7 +5,8 @@ draft: false
 tags: ["project", "data"]
 ---
 
-<center> ![](/form/firstlast.png) </center>
+
+<center><img src="/form/firstlast.png" alt="drawing" width="600"/></center>
 
 ### has an online form ever made you identify yourself as someone you are not?
 
@@ -33,7 +34,7 @@ Please send your examples and feedback [here](https://alexandriaa.netlify.app/po
 
 Yu is the pinyin romanization of several Chinese family names such as 余, 于, 由, 魚 (鱼), and 漁(渔). Li (李) is the second most common surname in China, shared by more than 100 million worldwide.
 
-<center> ![](/form/first3.png) </center>
+<center><img src="/form/first3.png" alt="drawing" width="600"/></center>
 
 While this may seem like a solution, there are many other truths about names to consider. To know the truths, unlearning through questioning our beliefs may help. Some myths that are common about names:
 

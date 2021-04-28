@@ -5,7 +5,7 @@ draft: false
 tags: ["project","data"]
 ---
 
-# Please send me links or screenshots of bad forms! This is for a project, read more [here](https://alexandriaa.netlify.app/projects/forms/).Please let me know where the screenshot is from in the text box. If you would like credit, please also include your preferred social media handle. 
+# Please send me links or screenshots of bad forms! This is for a project, read more [here](https://alexandriaa.netlify.app/projects/forms/). Please let me know where the screenshot is from in the text box. If you would like credit, please also include your preferred social media handle. 
 
 
 
