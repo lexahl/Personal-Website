@@ -42,9 +42,9 @@ pygmentscodefencesguesssyntax = true
   url = "/about/"
 
 [params]
-  subTitle = "student. (critical) data analysis. languages. travel."                                
+  subTitle = "mathematics + (critical) data analysis and science + languages"                                
 
-  keywords = ["data scientist","data scientist"]    
+  keywords = ["data scientist","critical data"]    
 
   description = "data scientist, data analysis, data analyst, data science, machine learning"                        
   enableMathJax = true                                                 
@@ -55,7 +55,7 @@ pygmentscodefencesguesssyntax = true
 
 [social]
   github = "https://github.com/lexahl"
-  #twitter = "https://twitter.com/alexandrriiia"
+  twitter = "https://twitter.com/alexandrriiia"
  # messenger = "https://messenger.com/t/alexandriaahluwalia"
   #instagram = "https://instagram.com/alexandriaahluwalia"
   linkedin = "https://www.linkedin.com/in/lexi"
