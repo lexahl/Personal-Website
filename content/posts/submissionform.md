@@ -22,7 +22,7 @@ tags: ["project","data"]
  
   <label>
     Your file:
-    <input type="file" name="upload">
+    <input type="file" name="upload" accept="image/png, image/jpeg">
   </label>
     <hr />
   <label>
@@ -30,7 +30,7 @@ tags: ["project","data"]
     <textarea name="message"></textarea>
   </label>
   <hr />
-  <button type="submit">Send</button>
+  <button type="submit">Submit</button>
 </form>
 
 ### PRIVACY/DATA NOTICE - I will not collect you email addresses for any reason. You may use a fake email if you do not want a reply, but you won't get a receipt of the submission. 
